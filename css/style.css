@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans',
+    sans-serif;
+}
+.banner-container{
+    background-color: rgb(165, 9, 9);
+}
+.banner-column{
+    background-color: rgb(80, 100, 110);
+}
+.navber-container {
+    top: 0%;
+    background-color: rgb(44, 3, 32);
+    position: sticky;
+    z-index: 2;
+
+}
+.about-containar{
+  background-color: rgb(101, 101, 243);  
+}
+.redtype-color{
+    background-color: rgb(16, 223, 85);
+}
+.redtype-color{
+    color: rgb(255, 174, 0);
+}
+.circle{
+    background-color: rgb(197, 12, 157);
+    width: 150px;
+    height: 150px;
+    border: 50%;
+}
+.card-color{
+    background-color: rgb(124, 240, 109);
+}
+.project-container{
+    background-color: rgb(23, 158, 199);
+}
+.education-container{
+    background-color: rgb(127, 224, 200);
+}
+.footer{
+    background-color: rgb(102, 4, 4);
+}
+.curcle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+}
+.curcle:hover{
+   
+    background-color: rgb(11, 196, 72);
+   
+}
+.font-container{
+    background-color: rgb(80, 107, 133);
+}
+.inner-from{
+    background-color: rgb(255, 115, 0);
+}
+.bg-redtype-color{
+    background-color: black;
+}
+.bg-redtype-color:hover{
+    background-color: rgb(76, 26, 212);
+}

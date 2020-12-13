@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\web devolopment"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.html"
+	}
+}
